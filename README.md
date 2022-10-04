@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rc-codemax
+- 👋 Hi, I’m Rahul.K
 - 👀 I’m interested in art and coding
 - 🌱 I’m currently learning Artificial intelligence
 - 💞️ I’m looking to collaborate on Deep learning and cyber security
